@@ -9,7 +9,8 @@
     
 - <b>Python</b>
   - [Tkinter Calculator](https://github.com/mel-harber/TkinterCalculator)
-  - [Air Quality Analytics](https://github.com/mel-harber/Air-Quality-Analytics) 
+  - [Air Quality Analytics](https://github.com/mel-harber/Air-Quality-Analytics)
+  - [Matricies and Graphs](https://github.com/mel-harber/Matricies_and_Graphs)
 
 
 <h2> 🤳 Connect with me:</h2>
