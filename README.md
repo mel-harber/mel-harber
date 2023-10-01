@@ -8,6 +8,7 @@
   - 
 - <b>Python</b>
   - [Tkinter Calculator](https://github.com/mel-harber/TkinterCalculator)
+  - [Air-Quality-Analytics](https://github.com/mel-harber/Air-Quality-Analytics)
 
 
 <h2> 🤳 Connect with me:</h2>
