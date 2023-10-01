@@ -5,10 +5,11 @@
 - <b>Web Development</b>
   - 
 - <b>Java</b>
-  - 
+  - [Social Media Platform](https://github.com/mel-harber/SocilaMediaPlatform)
+    
 - <b>Python</b>
   - [Tkinter Calculator](https://github.com/mel-harber/TkinterCalculator)
-  - [Air-Quality-Analytics](https://github.com/mel-harber/Air-Quality-Analytics) 
+  - [Air Quality Analytics](https://github.com/mel-harber/Air-Quality-Analytics) 
 
 
 <h2> 🤳 Connect with me:</h2>
