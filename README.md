@@ -5,7 +5,7 @@
 - <b>Web Development</b>
   - 
 - <b>Java</b>
-  - [Social Media Platform](https://github.com/mel-harber/SocilaMediaPlatform)
+  - [Social Media Platform](https://github.com/mel-harber/SocialMediaPlatform)
     
 - <b>Python</b>
   - [Tkinter Calculator](https://github.com/mel-harber/TkinterCalculator)
