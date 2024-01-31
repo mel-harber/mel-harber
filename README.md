@@ -8,6 +8,7 @@
  
 - <b>Java</b>
   - [Social Media Platform](https://github.com/mel-harber/SocialMediaPlatform)
+  - [Card Game](https://github.com/mel-harber/CardGame)
     
 - <b>Python</b>
   - [Tkinter Calculator](https://github.com/mel-harber/TkinterCalculator)
